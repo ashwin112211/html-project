@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>Welcome to Our Restaurant</title>
+</head>
+<body>
+    <marquee behavior="scroll" direction="left">Welcome to Our Restaurant! Enjoy the best Indian cuisine!</marquee>
+    <h1>Welcome to Our Restaurant</h1>
+    <p>Experience the best South Indian cuisine!</p>
+
+    <a href="M1.html">
+        <button>Open Menu</button>
+    </a>
+
+</body>
+</html>

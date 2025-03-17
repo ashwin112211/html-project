@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>North Indian Restaurant Menu</title>
+</head>
+<body>
+
+    <h1>Restaurant Menu</h1>
+    <h1>North Indian</h1>
+
+    <h2>Starters</h2>
+    <ul>
+        <li>Paneer Tikka - ₹180</li>
+        <li>Aloo Tikki - ₹100</li>
+        <li>Hara Bhara Kabab - ₹150</li>
+        <li>Samosa - ₹50</li>
+    </ul>
+
+    <h2>Main Course</h2>
+    <ul>
+        <li>Butter Chicken - ₹350</li>
+        <li>Paneer Butter Masala - ₹300</li>
+        <li>Dal Makhani - ₹250</li>
+        <li>Chole Bhature - ₹180</li>
+    </ul>
+
+    <h2>Indian Breads</h2>
+    <ul>
+        <li>Plain Naan - ₹50</li>
+        <li>Butter Naan - ₹60</li>
+        <li>Garlic Naan - ₹70</li>
+        <li>Missi Roti - ₹50</li>
+    </ul>
+
+    <h2>Biryani & Rice</h2>
+    <ul>
+        <li>Chicken Biryani - ₹280</li>
+        <li>Mutton Biryani - ₹320</li>
+        <li>Jeera Rice - ₹150</li>
+        <li>Veg Pulao - ₹180</li>
+    </ul>
+
+    <h2>Desserts</h2>
+    <ul>
+        <li>Gulab Jamun - ₹80</li>
+        <li>Rasgulla - ₹90</li>
+        <li>Rabri - ₹100</li>
+        <li>Gajar Ka Halwa - ₹120</li>
+    </ul>
+
+    <h2>Beverages</h2>
+    <ul>
+        <li>Lassi - ₹90</li>
+        <li>Masala Chai - ₹50</li>
+        <li>Badam Milk - ₹100</li>
+        <li>Fresh Lime Soda - ₹70</li>
+    </ul>
+
+</body>
+</html>

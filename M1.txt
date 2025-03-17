@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamil Nadu Restaurant Menu</title>
+</head>
+<body>
+
+    <h1>Restaurant Menu</h1>
+    <h1>South Indian</h1>
+
+    <h2>Starters</h2>
+    <ul>
+        <li>Medu Vada - ₹10</li>
+        <li>Sambar Vada - ₹40</li>
+        <li>Curd Vada - ₹40</li>
+        <li>Samosa - ₹60</li>
+    </ul>
+
+    <h2>Dosas</h2>
+    <ul>
+        <li>Plain Dosa - ₹70</li>
+        <li>Masala Dosa - ₹90</li>
+        <li>Rava Dosa - ₹80</li>
+        <li>Onion Dosa - ₹100</li>
+    </ul>
+
+    <h2>Idlis</h2>
+    <ul>
+        <li>Plain Idli (2 pieces) - ₹50</li>
+        <li>Sambar Idli (2 pieces) - ₹60</li>
+        <li>Rava Idli (2 pieces) - ₹70</li>
+        <li>Mini Idli with Sambar - ₹90</li>
+    </ul>
+
+    <h2>Chettinad Specials</h2>
+    <ul>
+        <li>Chettinad Chicken Curry - ₹300</li>
+        <li>Chettinad Mutton Curry - ₹350</li>
+        <li>Chettinad Egg Curry - ₹250</li>
+    </ul>
+
+    <h2>Biryani</h2>
+    <ul>
+        <li>Chicken Biryani - ₹250</li>
+        <li>Mutton Biryani - ₹300</li>
+        <li>Fish Biryani - ₹220</li>
+        <li>Hyderabadi Biryani - ₹270</li>
+    </ul>
+
+    <h2>Rice Dishes</h2>
+    <ul>
+        <li>Lemon Rice - ₹80</li>
+        <li>Coconut Rice - ₹90</li>
+        <li>Curd Rice - ₹70</li>
+        <li>Tomato Rice - ₹100</li>
+    </ul>
+
+    <h2>Desserts</h2>
+    <ul>
+        <li>Payasam - ₹100</li>
+        <li>Kesiari - ₹80</li>
+        <li>Rava Laddu - ₹90</li>
+        <li>Jangri - ₹70</li>
+    </ul>
+
+    <h2>Beverages</h2>
+    <ul>
+        <li>Filter Coffee - ₹50</li>
+        <li>Buttermilk - ₹40</li>
+        <li>Fresh Lime Soda - ₹60</li>
+        <li>Tender Coconut - ₹80</li>
+    </ul>
+
+</body>
+</html>
